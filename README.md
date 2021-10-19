@@ -1,0 +1,2 @@
+# npmpublishtonexus
+本地node_modules批量publish到私服
